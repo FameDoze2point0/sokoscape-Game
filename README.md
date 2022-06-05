@@ -8,4 +8,5 @@ Then, when we succeed to install it, we had to make a map of tiles which corresp
 
 You can see an example of the map below:
 
-![alt text]([http://url/to/img.png](https://github.com/FameDoze2point0/sokoscape-Game/blob/7730c6015943c2434a5d6423e45a0c5d477494bd/etape1.png))
+<img width ="500px" src ='https://user-images.githubusercontent.com/106914120/172068177-d7bd6403-5385-4262-805c-2568840a40be.png' align="center">
+
