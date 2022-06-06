@@ -49,7 +49,7 @@ You can see an example of an extern file (the names seen before are really impor
   </tr>
 </table>
 
-I have to say that, we were able and allow to add as many features that we want (so I added a weapon and more that you will see further)
+I must say, we've been allowed to add as many features as we want (so I've added a weapon and other that you'll see below)
 
 <h2> Final Step </h2>
 Obviously, in this part we will add many features :
@@ -73,4 +73,4 @@ Obviously, in this part we will add many features :
   
 <br><br>
   
-<p>If you download this program, you could find some problems. Indeed, there is a memory leak (I think due to the display of textures) that we close automatically at a moment. Moreover, we didn't have a lot of time to make this project (1 week per step) and by the way I'm a student. If you have questions or suggestions or even corrections, don't hesitate.</p>
+<p>If you download this program, you could find some problems. Indeed, there is a memory leak (I think due to the display of textures) that we close automatically at a moment. Moreover, we didn't have a lot of time to make this project (1 week per step) and by the way I'm student. If you have questions, suggestions or even corrections, don't hesitate. 😃</p>
