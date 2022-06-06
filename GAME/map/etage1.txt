@@ -1,0 +1,86 @@
+HAUTEUR:12
+LARGEUR:16
+
+TUILE:0,../images/tuile.png
+TUILE:1,../images/coin_bd.png
+TUILE:2,../images/coin_bg.png
+TUILE:3,../images/coin_hd.png
+TUILE:4,../images/coin_hg.png
+TUILE:5,../images/mur_angle_db.png
+TUILE:6,../images/mur_angle_dh.png
+TUILE:7,../images/mur_angle_gb.png
+TUILE:8,../images/mur_angle_gh.png
+TUILE:9,../images/mur_bas.png
+TUILE:10,../images/mur_droit.png
+TUILE:11,../images/mur_gauche.png
+TUILE:12,../images/mur_haut.png
+TUILE:13,../images/mur_gd.png
+TUILE:14,../images/mur_hb.png
+TUILE:15,../images/sortie_bas.png
+TUILE:16,../images/sortie_droite.png
+TUILE:17,../images/sortie_gauche.png
+TUILE:18,../images/sortie_haut.png
+TUILE:19,../images/mid_bas.png
+TUILE:20,../images/mid_gauche.png
+TUILE:21,../images/mid_haut.png
+TUILE:22,../images/mid_droit.png
+TUILE:23,../images/trou.png
+TUILE:24,../images/flaque.png
+TUILE:25,../images/feu.png
+TUILE:26,../images/trou_rempli.png
+
+HITBOX:0,0,0,0,0
+HITBOX:1,0,0,64,64
+HITBOX:2,0,0,64,64
+HITBOX:3,0,0,64,64
+HITBOX:4,0,0,64,64
+HITBOX:5,30,30,10,10
+HITBOX:6,30,24,10,10
+HITBOX:7,24,29,10,10
+HITBOX:8,24,24,10,10
+HITBOX:9,0,16,64,48
+HITBOX:10,16,0,48,64
+HITBOX:11,0,0,48,64
+HITBOX:12,0,0,64,48
+HITBOX:13,0,26,64,12
+HITBOX:14,26,0,12,64
+HITBOX:15,0,0,64,64
+HITBOX:16,0,0,64,64
+HITBOX:17,0,0,64,64
+HITBOX:18,0,0,64,64
+HITBOX:19,0,16,64,48
+HITBOX:20,0,0,48,64
+HITBOX:21,0,0,48,64
+HITBOX:22,16,0,48,64
+HITBOX:23,9,9,46,46
+HITBOX:24,0,14,64,24
+HITBOX:25,9,9,46,46
+HITBOX:26,0,0,0,0
+
+TAB:
+4 12 21 12 21 12 12 21 21 21 12 21 21 12 12 3
+11 0 14 0 14 0 0 23 14 23 0 14 14 25 25 10
+11 0 14 0 14 0 0 14 14 14 0 23 6 13 13 22
+11 0 6 7 6 13 7 14 14 14 0 14 0 0 0 10
+20 7 0 6 7 0 14 14 14 14 0 6 7 14 24 10
+11 6 7 23 6 13 8 14 14 6 7 0 14 14 0 10
+11 0 6 13 13 13 13 8 14 24 14 0 14 14 0 10
+11 24 5 13 13 13 13 13 8 0 14 5 8 0 0 10
+11 5 8 0 0 23 5 13 7 0 14 14 25 25 0 10
+11 14 0 0 13 7 14 0 0 0 14 6 13 13 7 10
+11 6 13 13 0 14 14 0 0 0 14 0 0 0 14 16
+2 9 9 9 9 19 19 9 9 9 19 9 9 9 19 1
+
+NOBJETS:8
+OBJET:0,../images/caisse.png,80,136
+OBJET:1,../images/caisse.png,380,72
+OBJET:2,../images/caisse.png,240,521
+OBJET:3,../images/caisse.png,200,610
+OBJET:4,../images/caisse.png,500,610
+OBJET:5,../images/caisse.png,750,630
+OBJET:6,../images/caisse.png,808,220
+OBJET:7,../images/caisse.png,916,220
+
+ARME:../images/epee.png,80,60
+
+JOUEUR:../images/player.png,80,60
